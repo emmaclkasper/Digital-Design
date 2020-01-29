@@ -1,0 +1,15 @@
+	NET A LOC = B2;
+	NET B LOC = A3;
+	NET C LOC = J3;
+	NET D LOC = B5;
+	NET E LOC = C6;
+	NET F LOC = B6;
+	NET G LOC = C5;
+	
+	NET SegSel LOC = B7;
+	
+	NET Clk	LOC = B8;
+	NET Rst	LOC = P11;
+	NET DivRst	LOC = L3;
+	NET En	LOC = K3;
+	NET U	LOC = B4;

@@ -1,0 +1,23 @@
+NET "Clk" LOC = "B8";
+
+NET "Rst" LOC = "A7";
+NET "DivRst" LOC = "M4";
+NET "Start" LOC = "G12";
+
+NET "LED<0>" LOC = "G1";
+NET "LED<1>" LOC = "P4";
+NET "LED<2>" LOC = "N4";
+NET "LED<3>" LOC = "N5";
+NET "LED<4>" LOC = "P6";
+NET "LED<5>" LOC = "P7";
+NET "LED<6>" LOC = "M11";
+NET "LED<7>" LOC = "M5";
+
+NET "LCD_E" LOC = "C5";
+NET "LCD_RS" LOC = "C6";
+NET "LCD_RW" LOC = "B6";
+
+NET "LCD_Data<8>" LOC = "B2";
+NET "LCD_Data<9>" LOC = "A3";
+NET "LCD_Data<10>" LOC = "J3";
+NET "LCD_Data<11>" LOC = "B5";
